@@ -104,6 +104,6 @@ theme: landscape
 deploy:
   type: git
   repo: git@github.com:kinno66/kinno66.github.io.git
-  branch: master
+  branch: main
 
 
